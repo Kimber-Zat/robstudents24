@@ -1,4 +1,7 @@
 -- ~
+SET GLOBAL validate_password.policy = 0;
+-- ~
+-- ~
 CREATE USER IF NOT EXISTS 'student'@'localhost' IDENTIFIED BY 'student';
 -- ~
 -- ~
