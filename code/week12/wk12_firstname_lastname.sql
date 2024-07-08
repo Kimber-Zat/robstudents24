@@ -8,7 +8,7 @@ USE `university`;
 
 
 -- ----------------------------------------------------------------------------
--- Query 2: Student's age in years and days as of Jan. 5, 2017.  
+-- Query 2: Student's and TA's age in years and days as of Jan. 5, 2017.  
 --          Sorted from oldest to youngest. No duplicates  
 --          (You can assume a 365 day year and ignore leap day.) 
 --          Hint: Use the mod function to calculate the days left over 
